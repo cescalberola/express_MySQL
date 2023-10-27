@@ -72,7 +72,7 @@ Let's make this project a success together! 🙌
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js">
   <img src="https://imgs.search.brave.com/ziXbll6Eu_vanLF_3jITiNkpTCtx7YcJeFlLoeAvjIA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXRs/YWIuc3ZnLnpvbmUv/b21uaWFpdC9kZXZl/bG9wZXItbG9nb3Mv/cmF3L21hc3Rlci9s/b2dvcy9mcm9udC1l/bmQtd2ViL25wbS5z/dmc.svg" width="30">
-  <img src="https://imgs.search.brave.com/uF5-AZuQ1c913_WPi-S4p3l0x0K658ncMRh6vX5Kgqc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy9teXNxbC1sb2dv/LTEucG5n" width="30">
+  <img src="https://imgs.search.brave.com/TAJpmj8JiLXeqQeY3vY0YqGp0mmJn4jz0oGqxhU12dc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL00vbXlzcWwt/bG9nby1CNDk0M0ZF/NkRELXNlZWtsb2dv/LmNvbS5wbmc" width="30">
 </p>
 
 Completed by [Vero Polegre](https://github.com/VeroPolegre) and [Francesc Alberola](https://github.com/cescalberola)  🤝👩‍💻👨‍💻

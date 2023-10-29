@@ -69,6 +69,8 @@ In this project, our main objectives are to:
 - 📁 Create a `users.js` file within a `routes` folder that contains all the user routes.
 - 📁 Create a `UserController.js` that contains all the actions related to users.
 
+## Preview
+
 <p align="center">
 <img src="https://imgs.search.brave.com/50JDDd4L1QxFtnwMrj6rn158HP4VG0qHPxVKtKvCPn4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9wb3N0bWFuLnN2/Zw.svg" width="30"">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" alt="JavaScript">

@@ -75,4 +75,4 @@ Let's make this project a success together! 🙌
   <img src="https://imgs.search.brave.com/TAJpmj8JiLXeqQeY3vY0YqGp0mmJn4jz0oGqxhU12dc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zZWVr/bG9nby5jb20vaW1h/Z2VzL00vbXlzcWwt/bG9nby1CNDk0M0ZF/NkRELXNlZWtsb2dv/LmNvbS5wbmc" width="30">
 </p>
 
-Completed by [Vero Polegre](https://github.com/VeroPolegre) and [Francesc Alberola](https://github.com/cescalberola)  🤝👩‍💻👨‍💻
+Completed by [Vero Polegre](https://github.com/VeroPolegre) and [Francesc Alberola](https://github.com/cescalberola)  🤝👨‍💻👩‍💻

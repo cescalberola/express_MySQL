@@ -10,62 +10,66 @@ In this project, our main objectives are to:
 - 📦 Handle NPM
 - 🏦 Learn to use MySQL with Express
 
-## Endpoints 🛣️
+Certainly, here's the text formatted as a list with emojis:
 
-### Exercise 1 📊
+### Exercise 1
+- Create the database endpoint.
+- Create the following tables using Express and MySQL, just as we've seen in class:
+  - Products Table 📦
+  - Categories Table 🗂️
 
-We start by creating the database endpoint. To do this, we create the following tables using Express and MySQL, as we have seen in class:
+### Exercise 2
+- Create an endpoint to add a new product and add 2 new products from Postman. 📤
+- Create an endpoint to create a category and add 2 new categories from Postman. 📤
 
-1. **Table Products** 📦
-2. **Categories Table** 🗂️
+### Exercise 3
+- Create an endpoint to update a product. 🔄
+- Create an endpoint to update a category. 🔄
 
-And don't forget, in the case of a many-to-many relationship, you will need an intermediate table. 🔄
+### Exercise 4
+- Create an endpoint that shows all the products. 📦
+- Create an endpoint that shows all the categories. 🗂️
+- Create an endpoint that shows all the products with their respective categories. 📦🗂️
+- Create an endpoint where you can select a product by its ID. 🆔
+- Create an endpoint that shows the products in descending order. ⬇️
+- Create an endpoint where you can select a category by its ID. 🆔
+- Create an endpoint where you can search for a product by its name. 🔍
 
-### Exercise 2 🆕
+### Exercise 5
+- Create an endpoint where you can delete a product by its ID. 🚮
 
-Now, it's time to create endpoints to add new products and categories. You can even add 2 new products and 2 new categories from Postman! 📤
+🧩 **MVC**
 
-### Exercise 3 🔄
+## Extra
 
-Let's create endpoints to update products and categories. 🔄
+### Exercise 1
+- Create the following tables using Express and MySQL, as we've seen in class:
+  - Users Table 📦
+  - Orders Table 🗂️
 
-### Exercise 4 📜
+### Exercise 2
+- Create an endpoint to add a new user and add 2 new users from Postman. 📤
+- Create an endpoint to create an order and add 2 new orders from Postman. 📤
 
-We have several endpoints to display and search for products and categories:
+### Exercise 3
+- Create an endpoint to update a user. 🔄
 
-- 📦 Display all products
-- 🗂️ Show all categories
-- 📦🗂️ Display all products with their categories
-- 🆔 Select a product by ID
-- 📦 Display products in descending order
-- 🆔 Select a category by ID
-- 🔍 Search for a product by name
+### Exercise 4
+- Create an endpoint that shows all the users. 📦
+- Create an endpoint that shows all the orders. 🗂️
+- Create an endpoint that shows all the users with their respective orders. 📦🗂️
+- Create an endpoint where you can select a user by their ID. 🆔
 
-### Exercise 5 🗑️
+### Exercise 5
+- Create an endpoint where you can delete a user by their ID. 🚮
 
-You can also delete a product by its ID with the respective endpoint. 🚮
+📁 **Implement MVC in Orders**
+- Create an `orders.js` file within a `routes` folder that contains all the order routes.
+- Create an `OrderController.js` that contains all the actions related to orders.
 
-## MVC 🧩
-
-We follow the MVC (Model-View-Controller) design pattern for our project. Here's how we've structured it:
-
-### Create the config folder 📁
-
-In the config folder, you'll find a `database.js` file that contains the database connection data. But remember, we have a `database.example.js` file too, which has the same information without your credentials. Be sure not to upload your `database.js` file to your GitHub repository. 🔒
-
-### Folder Structure 📂
-
-- **Products** 📦
-
-  - In the routes folder, you'll find a `products.js` file containing all the product routes.
-  - Additionally, we have a `ProductController.js` that contains all the product-related actions.
-
-- **Categories** 🗂️
-
-  - In the routes folder, there's a `categories.js` file containing all categories routes.
-  - Plus, we've got a `CategoryController.js` that contains all the categories-related actions.
-
-Let's make this project a success together! 🙌
+📁 **Implement MVC in Users**
+- Create a `users.js` file within a `routes` folder that contains all the user routes.
+- Create a `UserController.js` that contains all the actions related to users.
 
 <p align="center">
 <img src="https://imgs.search.brave.com/50JDDd4L1QxFtnwMrj6rn158HP4VG0qHPxVKtKvCPn4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/d29ybGR2ZWN0b3Js/b2dvLmNvbS9sb2dv/cy9wb3N0bWFuLnN2/Zw.svg" width="30"">
